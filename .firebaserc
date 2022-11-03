@@ -1,6 +1,7 @@
 {
   "projects": {
-    "staging,developing": "clone-b65ba"
+    "staging,developing": "clone-b65ba",
+    "default": "clone-b65ba"
   },
   "targets": {},
   "etags": {}
