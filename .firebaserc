@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging,developing": "clone-b65ba"
+  },
+  "targets": {},
+  "etags": {}
+}
